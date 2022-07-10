@@ -1,0 +1,1 @@
+{"name":"Local: Binary_To_Decimal","url":"d:\\C++ Program\\Binary_To_Decimal.cpp","tests":[{"id":1633577940477,"input":"10000111110000111111111000011","output":"2559"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\Binary_To_Decimal.cpp","group":"local","local":true}

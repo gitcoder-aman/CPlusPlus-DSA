@@ -1,0 +1,1 @@
+{"name":"Local: 2DArray_Matrix_Search","url":"e:\\C++ Program\\2DArray_Matrix_Search.cpp","tests":[{"id":1635526562661,"input":"3 3 7\n1 2 3\n4 5 6\n7 8 9","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++ Program\\2DArray_Matrix_Search.cpp","group":"local","local":true}

@@ -1,0 +1,2 @@
+Reg1234	Aman           a	00	00	Ak123
+Reg1234	Sunil          a	00	00	Su123

@@ -1,0 +1,1 @@
+{"name":"Local: linearSerach","url":"e:\\C++ Program\\linearSerach.cpp","tests":[{"id":1633959704950,"input":"5 10 20 30 40 50 30","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++ Program\\linearSerach.cpp","group":"local","local":true}

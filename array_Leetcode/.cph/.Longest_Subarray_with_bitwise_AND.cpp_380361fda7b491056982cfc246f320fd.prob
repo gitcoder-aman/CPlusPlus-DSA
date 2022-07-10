@@ -1,0 +1,1 @@
+{"name":"Local: Longest_Subarray_with_bitwise_AND","url":"d:\\C++ Program\\Leetcode\\Longest_Subarray_with_bitwise_AND.cpp","tests":[{"id":1639839827314,"input":"2 \n2 1","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\Leetcode\\Longest_Subarray_with_bitwise_AND.cpp","group":"local","local":true}

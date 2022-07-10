@@ -1,0 +1,4 @@
+/*size() - O(1)
+push_back - O(1)
+pop_back - O(1)
+vector<int>v2 = v; //O(n)

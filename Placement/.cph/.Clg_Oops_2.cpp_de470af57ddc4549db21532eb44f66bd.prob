@@ -1,0 +1,1 @@
+{"name":"Local: Clg_Oops_2","url":"e:\\C++ Program\\Placement\\Clg_Oops_2.cpp","tests":[{"id":1635266703751,"input":"Monitor\nP001\nLG\n40000","output":""},{"id":1635266838598,"input":"Monitor\nP001\nLG\n40000","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++ Program\\Placement\\Clg_Oops_2.cpp","group":"local","local":true}

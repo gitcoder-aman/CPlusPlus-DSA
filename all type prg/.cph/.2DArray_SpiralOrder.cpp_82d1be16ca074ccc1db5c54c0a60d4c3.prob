@@ -1,0 +1,1 @@
+{"name":"Local: 2DArray_SpiralOrder","url":"e:\\C++ Program\\2DArray_SpiralOrder.cpp","tests":[{"id":1635352929603,"input":"4 4 \n5 12 17 2  \n13 4 8 13 \n9 6 3 45 \n16 14 18 25","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"e:\\C++ Program\\2DArray_SpiralOrder.cpp","group":"local","local":true}

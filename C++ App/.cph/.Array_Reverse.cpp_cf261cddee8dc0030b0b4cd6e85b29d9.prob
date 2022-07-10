@@ -1,0 +1,1 @@
+{"name":"Local: Array_Reverse","url":"d:\\C++ Program\\C++ App\\Array_Reverse.cpp","tests":[{"id":1636003458716,"input":"10\n10 20 30 40 50 60 70 80 90 100","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\C++ Program\\C++ App\\Array_Reverse.cpp","group":"local","local":true}
